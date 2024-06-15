@@ -1,14 +1,16 @@
 # Server IP
 
-The server can be joiend at
+### Java
 
-Java : dignation.husky.nz
+dignation.husky.nz
 
-Bedrock (Desktop) : 185.150.190.146:25594
+### Bedrock (Desktop)
+
+185.150.190.146:25594
 
 
 
-Console?
+### Console
 
 You need to set the DNS of your console to one of the public dns servers provied by BedrockConnect
 
@@ -19,3 +21,4 @@ Switch: [https://www.youtube.com/watch?v=zalT\_oR1nPM](https://www.youtube.com/w
 Xbox: [https://www.youtube.com/watch?v=g8mHvasVHMs](https://www.youtube.com/watch?v=g8mHvasVHMs)
 
 PS4/PS5: [https://youtu.be/0MJVVhDeu2s?t=347](https://youtu.be/0MJVVhDeu2s?t=347) (Use 45.55.68.52 for the primary DNS address)
+
