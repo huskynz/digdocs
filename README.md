@@ -2,7 +2,7 @@
 
 ### Java
 
-dignation.husky.nz
+185.150.190.146:25594
 
 ### Bedrock (Desktop)
 
